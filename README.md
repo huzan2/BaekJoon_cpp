@@ -3,4 +3,4 @@
 started from 2022.12.30  
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/huzan2)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=huzan2)](https://solved.ac/huzan2)
